@@ -1,0 +1,49 @@
+.overlay {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: transparent;
+  /* backdrop-filter: blur(5px); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.contentModal {
+  /* width: 80vw; */
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background: #ffffff;
+  padding: 4%;
+  color: #000000;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 10px 10px 3px #e1e1e1;
+}
+
+@media (max-width: 400px) {
+  .degraded {
+    width: 100%;
+  }
+
+  .contentModal {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding-inline: 10px;
+    /* min-height: 350px; */
+    text-align: center;
+  }
+}
+
+@media (max-height: 400px) {
+  .contentModal {
+    width: 500px;
+    height: 350px;
+  }
+}

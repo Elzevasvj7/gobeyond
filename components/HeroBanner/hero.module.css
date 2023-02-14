@@ -1,0 +1,107 @@
+.hero_container {
+  position: relative;
+  height: 652px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero_image {
+  z-index: 1;
+}
+
+.hero_text {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 2;
+  padding-right: 90px;
+  padding-left: 90px;
+}
+
+.hero_text p {
+  text-align: center;
+  font-family: GothamBook;
+  max-width: 1000px;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.hero_text h1 {
+  font-family: LatoBold;
+  color: white;
+  font-weight: 800;
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.sponsor {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  align-items: center;
+  background: #f1f1f1;
+  height: 234px;
+}
+
+.prime_logo {
+  width: 353;
+  height: 95px;
+}
+
+.one_logo {
+  width: 301px;
+  height: 186px;
+}
+
+.hero_image_mobile {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .hero_container {
+    position: relative;
+  }
+
+  .sponsor {
+    gap: 50px;
+    height: 66px;
+  }
+
+  .hero_text {
+    padding: 30px;
+  }
+
+  .sponsor .prime_logo {
+    width: 96px;
+    height: 100%;
+  }
+
+  .sponsor .one_logo {
+    width: 82px;
+    height: 100%;
+  }
+}
+
+@media (max-width: 700px) {
+  .hero_container {
+    height: 300px;
+  }
+
+  .hero_text p {
+    font-size: 11px;
+    font-style: 400;
+  }
+
+  .hero_text h1 {
+    font-size: 25px;
+  }
+
+  .hero_image_mobile {
+    display: block;
+    z-index: -1;
+  }
+}

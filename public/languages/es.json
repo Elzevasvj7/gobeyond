@@ -1,0 +1,42 @@
+{
+  "heroBanner": {
+    "title": "¿Qué es GoBeyond?",
+    "description": "GoBeyond es una institución Fintech que permite a sus usuarios realizar transacciones transparentes y seguras, estos podrán cambiar sus crypto a FIAT a través de transferencias electrónicas bancarias o cargándolas en sus tarjetas débito crypto. Cuenta con una plataforma de exchange que también opera en mercados financieros a través de brokers."
+  },
+  "products": {
+    "title": "Productos",
+    "btnLiquidity": "Liquidez FOREX (FX)",
+    "descriptionLiquidity": {
+      "firt": "GoBeyond ofrece acceso directo al mercado a los principales centros de liquidez FX de nivel 1, lo que le permite a tu empresa niveles incomparables de tecnología, el fondo de liquidez más profundo, velocidad de ejecución y soporte profesional con total transparencia y anonimato comercial a costos comerciales ultra competitivos.",
+      "second": "Con nuestras soluciones de liquidez, podemos proporcionar a las instituciones financieras opciones de conectividad, infraestructura y conectividad altamente desarrolladas necesarias para manejar incluso los sistemas HFT más complejos. Con nuestra experiencia y tecnología, ofrecemos soluciones de liquidez personalizadas adaptadas a las necesidades de ejecución exactas de nuestros clientes."
+    },
+    "btnSpot": "Spot de Metales",
+    "descriptionSpot": {
+      "firt": "Los metales spot tienen cantidades variables de liquidez. El oro es el metal precioso más líquido, ya que tiene el mayor grado de actividad comercial, tanto en el mercado de futuros físicos como en el de venta libre. GoBeyond agrega liquidez de los principales proveedores de liquidez de Nivel 1, para proporcionar la liquidez más profunda en oro y una variedad de otros metales spot a precios competitivos. Spreads ajustados, posiciones largas o cortas.",
+      "second": "En los mercados de metales preciosos que son cada vez más competitivos y volátiles en la actualidad, nos complace ofrecer nuestra sólida experiencia, lo que nos permite proporcionar la mejor solución de liquidez de acuerdo con las necesidades específicas de nuestra diversa base de clientes. Nuestro enfoque está situado en un excelente servicio al cliente, lo que nos convierte en uno de los proveedores de liquidez más buscados de la industria para metales preciosos."
+    },
+    "btnCash": "Liquidez Índices de Efectivo",
+    "descriptionCash": {
+      "firt": "La liquidez te permite ejecutar tu operación rápidamente a un precio cercano al último cotizado. Varios factores contribuyen a la liquidez de los índices, incluidas las acciones que se siguen ampliamente y se negocian continuamente. Con B2Broker obtienes acceso a liquidez en una amplia gama de índices globales, lo que te permite aprovechar los spreads ajustados en los instrumentos más populares con los mejores precios, ejecución y profundidad de mercado posibles.",
+      "second": "Nuestros índices de soluciones de liquidez combinados con nuestra experiencia y tecnología nos permiten proporcionar requisitos de liquidez específicos de acuerdo con las necesidades de nuestros clientes. Hacemos que los mercados sean más líquidos, más transparentes y sin complicaciones para nuestros clientes."
+    },
+    "btnEnergies": "Liquidez Energías Spot",
+    "descriptionEnergies": {
+      "firt": "La liquidez ocurre cuando un activo tiene un alto nivel de actividad comercial y asegura que los participantes del mercado tengan la capacidad de comprar y vender fácilmente. En el caso de las energías, la liquidez es una preocupación importante para los traders e inversores, ya que tienden a ser más volátiles que otras clases de activos. GoBeyond ofrece una gran profundidad de liquidez con una ejecución superior al tiempo que reduce el costo de su negociación.",
+      "second": "Como el nivel de liquidez de los productos básicos es significativamente menor que el de otras inversiones, el trading de productos básicos y el mercado de futuros están fuertemente apalancados. GoBeyond comprende las características únicas de esta clase de activos y, con su sólido conocimiento de los mercados de productos básicos, puede ofrecer la mayor profundidad de liquidez combinada con la velocidad más rápida en la ejecución y los costos comerciales más bajos."
+    },
+    "btnCryptocurrencies": "CFD de criptomonedas",
+    "descriptionCryptocurrencies": {
+      "firt": "La liquidez es importante para todos los activos negociables, incluidas las criptomonedas, y los comerciantes deben completar las transacciones de la manera más rápida y rentable posible. El mercado de las criptomonedas es una clase de activos emergentes en el ámbito global con una creciente adopción de las criptomonedas por parte de inversores minoristas e institucionales.",
+      "second": "Los CFD son una forma conveniente de operar con criptomonedas. GoBeyond ofrece una solución incomparable de Crypto CFD que agrega intercambios de criptomonedas, proveedores de liquidez no bancarios, corredores de criptomonedas, órdenes OTC de clientes institucionales, fondos de cobertura y miles de órdenes de cliente-corredor para crear el fondo de liquidez más profundo de la industria para satisfacer todas las necesidades de nuestros clientes."
+    },
+    "btnStock": "Stocks (Acciones CFD)",
+    "descriptionStock": {
+      "firt": "La capacidad de ofrecer liquidez CFD es un diferenciador importante y hay pocos proveedores sólidos de liquidez CFD en el mercado. Hemos pasado los últimos años desarrollando una red de liquidez sofisticada para proporcionar precios ultra competitivos y una excelente ejecución en una amplia selección de mercados.",
+      "second": "Nuestra oferta de CFD de equidades individuales cubre los mercados de valores de todo el mundo en una sola cuenta con bajos costos de financiamiento. Benefíciate del acceso directo al mercado (DMA) con disponibilidad de venta en corto y acceso a una amplia gama de acciones globales diversas."
+    }
+  },
+  "footer": {
+    "firstText": "Síguenos y haz parte de la comunidad"
+  }
+}

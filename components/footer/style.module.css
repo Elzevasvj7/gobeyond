@@ -1,0 +1,45 @@
+.content {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #152a46;
+  backdrop-filter: blur(25px);
+  /* position: absolute; */
+}
+
+.content h2 {
+  font-weight: 100;
+  font-size: 18px;
+  font-family: GothamBook;
+  color: white;
+}
+
+.content h1 {
+  font-size: 18px;
+  font-family: LatoBold;
+}
+
+.content img {
+  width: 40px;
+}
+
+@media (max-width: 900px) {
+  .content {
+    height: 130px;
+  }
+
+  .content h2 {
+    font-size: 14px;
+  }
+
+  .content h1 {
+    font-size: 14px;
+  }
+
+  .content img {
+    width: 30px;
+  }
+}

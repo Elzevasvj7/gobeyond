@@ -1,0 +1,42 @@
+{
+  "heroBanner": {
+    "title": "What is GoBeyond?",
+    "description": "GoBeyond is a Fintech institution that allows its users to make transparent and secure transactions, they will be able to exchange their crypto to FIAT through electronic bank transfers or by loading them on their crypto debit cards. It has an exchange platform that also operates in financial markets through brokers."
+  },
+  "products": {
+    "title": "Products",
+    "btnLiquidity": "Liquidity FOREX (FX)",
+    "descriptionLiquidity": {
+      "firt": "GoBeyond offers direct market access to leading Tier 1 FX liquidity centers, allowing your firm unparalleled levels of technology, the deepest liquidity pool, speed of execution and professional support with full transparency and trading anonymity at ultra-competitive trading costs.",
+      "second": "With our liquidity solutions, we can provide financial institutions with highly developed connectivity, infrastructure and connectivity options needed to handle even the most complex HFT systems. With our expertise and technology, we offer customized liquidity solutions tailored to our clients' exact execution needs."
+    },
+    "btnSpot": "Spot of Metals",
+    "descriptionSpot": {
+      "firt": "Spot metals have varying amounts of liquidity. Gold is the most liquid precious metal as it has the highest degree of trading activity in both the physical futures and over-the-counter markets. GoBeyond aggregates liquidity from leading Tier 1 liquidity providers to provide the deepest liquidity in gold and a variety of other spot metals at competitive prices. Tight spreads, long or short positions.",
+      "second": "In today's increasingly competitive and volatile precious metals markets, we are pleased to offer our strong expertise, enabling us to provide the best liquidity solution according to the specific needs of our diverse client base. Our focus is placed on excellent customer service, making us one of the industry's most sought-after liquidity providers for precious metals."
+    },
+    "btnCash": "Liquidity Cash Ratios",
+    "descriptionCash": {
+      "firt": "Liquidity allows you to execute your trade quickly at a price close to the last quoted price. Several factors contribute to index liquidity, including stocks that are widely followed and continuously traded. With B2Broker you get access to liquidity in a wide range of global indices, allowing you to take advantage of tight spreads on the most popular instruments with the best possible pricing, execution, and market depth.",
+      "second": "Our liquidity solutions indices combined with our expertise and technology allow us to provide liquidity requirements specific to our clients' needs. We make markets more liquid, more transparent and hassle-free for our clients."
+    },
+    "btnEnergies": "Liquidity Spot Energies",
+    "descriptionEnergies": {
+      "firt": "Liquidity occurs when an asset has a high level of trading activity and ensures that market participants have the ability to buy and sell easily. In the case of energies, liquidity is a major concern for traders and investors as they tend to be more volatile than other asset classes. GoBeyond offers great depth of liquidity with superior execution while reducing the cost of your trading.",
+      "second": "As the level of liquidity in commodities is significantly lower than other investments, commodity trading and the futures market are heavily leveraged. GoBeyond understands the unique characteristics of this asset class and, with its solid knowledge of the commodity markets, can offer the greatest depth of liquidity combined with the fastest speed in execution and the lowest trading costs."
+    },
+    "btnCryptocurrencies": "CFD of cryptocurrencies",
+    "descriptionCryptocurrencies": {
+      "firt": "Liquidity is important for all tradable assets, including cryptocurrencies, and traders need to complete transactions as quickly and cost-effectively as possible. The cryptocurrency market is an emerging asset class globally with increasing adoption of cryptocurrencies by retail and institutional investors.",
+      "second": "CFDs are a convenient way to trade cryptocurrencies. GoBeyond offers an unparalleled Crypto CFD solution that aggregates cryptocurrency exchanges, non-bank liquidity providers, cryptocurrency brokers, institutional client OTC orders, hedge funds and thousands of client-broker orders to create the deepest liquidity pool in the industry to meet all of our clients' needs."
+    },
+    "btnStock": "Stocks (CFD Stocks)",
+    "descriptionStock": {
+      "firt": "The ability to offer CFD liquidity is an important differentiator and there are few solid CFD liquidity providers in the market. We have spent the last several years developing a sophisticated liquidity network to provide ultra-competitive pricing and excellent execution across a wide selection of markets.",
+      "second": "Our individual equity CFD offering covers equity markets around the world in a single account with low funding costs. Benefit from direct market access (DMA) with short sale availability and access to a wide range of diverse global equities."
+    }
+  },
+  "footer": {
+    "firstText": "Follow us and be part of the community"
+  }
+}

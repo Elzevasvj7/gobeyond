@@ -1,0 +1,96 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+  color: white;
+  padding-top: 70px;
+  padding-left: 86px;
+  padding-right: 86px;
+  padding-bottom: 70px;
+  background: #152a46;
+}
+
+.nav_right {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.nav_logo {
+  width: 398px;
+  height: 59px;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border-radius: 7px;
+  font-size: 20px;
+  font-family: GothamBold;
+  cursor: pointer;
+  width: 179px;
+}
+
+.button:hover {
+  background-color: #03bfc0;
+  color: white;
+}
+
+.burger_menu {
+  display: none;
+}
+
+.contentMovil {
+  display: none;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 1024px) {
+  .nav_container {
+    padding-top: 40px;
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-bottom: 39px;
+  }
+
+  .nav_logo {
+    width: 163px;
+    height: 24px;
+  }
+
+  .nav_right {
+    display: none;
+    gap: 10px;
+  }
+
+  .burger_menu {
+    display: block;
+  }
+
+  .containerMovil {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .contentMovil {
+    display: flex;
+  }
+
+  .contentMovil img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+
+  .contentMovil button {
+    border: none;
+    background-color: transparent;
+  }
+}
